@@ -1,0 +1,1 @@
+vinkel = float(input("ange en vinkel v i grader, där 0° < v < 360° "))
